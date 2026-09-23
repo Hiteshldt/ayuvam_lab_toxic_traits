@@ -16,11 +16,10 @@ export const ME = {
   resume: './hitesh-gupta-resume.pdf',
 };
 
-// Update these once the sites are live.
 export const TOYS = [
-  { id: 'toxic-traits', name: 'Toxic Traits', line: 'Your city’s air, as a dating profile', url: 'https://toxic-traits.vercel.app', dot: '#8fdcae' },
-  { id: 'boo-lean', name: 'Boo-lean', line: 'Is this job real, or a ghost?', url: 'https://boo-lean.vercel.app', dot: '#c9b8ff' },
-  { id: 'silk-bored', name: 'Silk Bored', line: 'Certified Bengaluru traffic excuses', url: 'https://silk-bored.vercel.app', dot: '#ffd98a' },
+  { id: 'toxic-traits', name: 'Toxic Traits', line: 'Your city’s air, as a dating profile', url: 'https://toxictraits.lab.ayuvam.com', dot: '#8fdcae' },
+  { id: 'boo-lean', name: 'Boo-lean', line: 'Is this job real, or a ghost?', url: 'https://boolean.lab.ayuvam.com', dot: '#c9b8ff' },
+  { id: 'silk-bored', name: 'Silk Bored', line: 'Certified Bengaluru traffic excuses', url: 'https://excuses.lab.ayuvam.com', dot: '#ffd98a' },
 ];
 
 const I = {
