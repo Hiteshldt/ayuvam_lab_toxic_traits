@@ -1,0 +1,7 @@
+{
+  "name": "toxic-traits",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "node dev.mjs 3001" },
+  "engines": { "node": ">=20" }
+}
